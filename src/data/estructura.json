@@ -1,0 +1,19 @@
+{
+    "tituloPrincipan": "Proyecto de Evaluación",
+    "subtitulo": "Programa de desarrollo sustentable Parque Estatal Urbano Barranca de chapultepec",
+    "descripcion": "no sé, lo voy a pensar",
+    "aside": {
+        "temas": [
+            {
+                "desc": "Descripción del programa de desarrollo sustentable",
+                "referencia": "tema1"
+            },
+            {
+                "desc": "Proyecto de evaluación de un programa de sustentabilidad ambiental Parque Estatal Urbano Barranca de Chapultepec",
+                "referencia": "tema2"
+            }
+        ]
+    }
+
+    
+}
